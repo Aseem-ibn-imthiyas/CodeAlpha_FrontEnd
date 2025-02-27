@@ -47,3 +47,9 @@ button {
 button:hover {
     background: #e68900;
 }
+
+
+.equal-btn {
+    grid-column: span 4;
+    width: 100%;
+}
